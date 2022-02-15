@@ -10,6 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/lpninja/boilerplate-npm/blob/master/package.json"
 	}
 }
